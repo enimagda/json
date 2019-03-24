@@ -1,9 +1,9 @@
 {
-nodes:[
+"nodes":[
 {"name":"無忌","group":1}
 ],
 
-links:[
+"links":[
 {"from":"無忌","to":"張三豐","we":1}
 
 ]
